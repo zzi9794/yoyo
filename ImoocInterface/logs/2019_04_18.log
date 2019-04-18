@@ -1,0 +1,18 @@
+[2019-04-18 12:56:58,031] - logger.py] - INFO: ------登录成功用例：start!---------
+[2019-04-18 12:56:58,032] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2019-04-18 12:56:58,034] - logger.py] - INFO: 输入正确密码：这里是抓包后获取的博客园的加密密码
+[2019-04-18 12:56:58,863] - logger.py] - INFO: ------登录失败用例：start!---------
+[2019-04-18 12:56:58,864] - logger.py] - INFO: 输入正确账号：这里是抓包后获取的博客园的加密账号
+[2019-04-18 12:56:58,865] - logger.py] - INFO: 输入错误密码：这里是抓包后获取的博客园的加密账号
+[2019-04-18 12:56:59,055] - logger.py] - INFO: ----------start!-------
+[2019-04-18 12:56:59,056] - logger.py] - INFO: 测试单号：560697415000  快递名称：天天快递
+[2019-04-18 12:56:59,057] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-560697415000-tiantian.html
+[2019-04-18 12:57:00,736] - logger.py] - INFO: 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'tiantian', 'nu': '560697415000', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+[2019-04-18 12:57:00,739] - logger.py] - INFO: 获取公司名称：None
+[2019-04-18 12:57:00,741] - logger.py] - INFO: 获取data内容：
+[2019-04-18 12:57:00,746] - logger.py] - INFO: ----------start!-------
+[2019-04-18 12:57:00,748] - logger.py] - INFO: 测试单号：1202247993797  快递名称：韵达快递
+[2019-04-18 12:57:00,751] - logger.py] - INFO: 测试url地址：http://www.kuaidi.com/index-ajaxselectcourierinfo-1202247993797-yunda.html
+[2019-04-18 12:57:00,892] - logger.py] - INFO: 获取请求结果：{'success': False, 'ico': '', 'phone': '', 'url': '', 'status': 0, 'companytype': 'yunda', 'nu': '1202247993797', 'company': None, 'reason': '快递公司参数异常：单号不存在或者已经过期', 'data': '', 'time': '', 'rank': '2.8', 'exceed': '', 'timeused': '--'}
+[2019-04-18 12:57:00,893] - logger.py] - INFO: 获取公司名称：None
+[2019-04-18 12:57:00,894] - logger.py] - INFO: 获取data内容：
